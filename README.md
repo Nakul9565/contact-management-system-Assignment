@@ -1,4 +1,4 @@
-# ContactHub — Full-Stack Contact Management Application
+# ContactHub — Full-Stack Contact Management Application - ASSIGNMENT
 
 A full-stack, responsive Contact Management web application featuring **React.js**, **Tailwind CSS (v3)** with a **Claude-inspired light beige & terracotta aesthetic**, **Poppins typography**, **JWT-based user authentication**, **protected REST API endpoints**, **MongoDB & Mongoose object modeling**, and **strict Zod schema validation**.
 
