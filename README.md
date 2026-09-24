@@ -7,6 +7,12 @@ Built as a technical assignment meeting all specified requirements with 100% dat
 Deployed application link : https://contact-management-system-assignment.onrender.com/
 ---
 
+## Application Preview & Walkthrough
+
+https://github.com/user-attachments/assets/24fa871d-74ec-411d-8952-1a670ad179c1
+
+---
+
 ## 🌟 Key Features
 
 - 🔐 **User Authentication & Authorization**:
